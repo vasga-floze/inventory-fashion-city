@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace inventory_fashion_city.Pages
 {
-    public class LoginModel : PageModel
+    public class AdminModel : PageModel
     {
         public void OnGet()
         {

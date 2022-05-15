@@ -40,3 +40,12 @@ C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\De
 C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\inventory-fashion-city.pdb
 C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\inventory-fashion-city.genruntimeconfig.cache
 C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\inventory-fashion-city.csproj.CopyComplete
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\inventory-fashion-city.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Shared\_LayoutNav.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Categories.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Company.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Admin.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Payments.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Products.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Sales.cshtml.g.cs
+C:\Users\gabri\source\repos\inventory-fashion-city\inventory-fashion-city\obj\Debug\net5.0\Razor\Pages\Signup.cshtml.g.cs
